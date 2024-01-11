@@ -1,2 +1,4 @@
-# YearCompass_obsidian_ru
-Obsidian Template for YearCompass in Russian
+# YearCompass Obsidian Template [Russian]
+
+Шаблон Obsidain для буклета YearCompass на русском языке
+Оригинальный планер https://yearcompass.com/
